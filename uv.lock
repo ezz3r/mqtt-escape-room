@@ -21,6 +21,7 @@ dependencies = [
     { name = "dotenv" },
     { name = "paho-mqtt" },
     { name = "pygame" },
+    { name = "python-dotenv" },
 ]
 
 [package.metadata]
@@ -28,6 +29,7 @@ requires-dist = [
     { name = "dotenv", specifier = ">=0.9.9" },
     { name = "paho-mqtt" },
     { name = "pygame", specifier = ">=2.6.1" },
+    { name = "python-dotenv", specifier = ">=1.2.3" },
 ]
 
 [[package]]
